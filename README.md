@@ -1,2 +1,2 @@
 # eSDM_data
-Data for use eSDM package, including eSDM GUI
+Home for data that can be dowloaded and used in the eSDM GUI
