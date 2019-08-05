@@ -8,9 +8,9 @@ For more information about eSDM, see https://github.com/smwoodman/eSDM
 
 See the README.txt files within each zip file for more details about the data.
 
-* eSDM_data_manuscript.zip: Data used in the example analysis described in Woodman *et al.* (in review)
+* eSDM_data_manuscript.zip: Data used in the example analysis described in Woodman *et al.* (in press)
 * eSDM_data_sample.zip: Sample data for use with the eSDM GUI.
 
 ## eSDM citation
 
-Woodman, S.M., Forney, K.A., Becker, E.A., DeAngelis, M.L., Hazen, E.L., Palacios, D.M., Redfern, J.V. (in review). eSDM: A tool for creating and exploring ensembles of predictions from species distribution and abundance models.
+Woodman, S.M., Forney, K.A., Becker, E.A., DeAngelis, M.L., Hazen, E.L., Palacios, D.M., Redfern, J.V. (in press). eSDM: A tool for creating and exploring ensembles of predictions from species distribution and abundance models. Methods in Ecology and Evolution.
