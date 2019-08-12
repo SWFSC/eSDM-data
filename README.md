@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/139048048.svg)](https://zenodo.org/badge/latestdoi/139048048)
+
 # eSDM-data
 
 Home for data that can be downloaded from the eSDM GUI. You can download this data by clicking the 'Download ... data' buttons in the 'Roadmap' section of the GUI.
