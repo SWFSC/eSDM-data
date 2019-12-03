@@ -4,7 +4,7 @@
 
 Home for data that can be downloaded from the eSDM GUI, including the data used in the 'Example analysis' section of Woodman et al. (2019). You can download this data by clicking the 'Download ... data' buttons in the 'Roadmap' section of the GUI. The data used in the example analysis is also located in [eSDM_data_manuscript.zip](https://github.com/smwoodman/eSDM-data/blob/master/eSDM_data_manuscript.zip).
 
-For more information about `eSDM`, see TODO https://github.com/smwoodman/eSDM.
+For more information about `eSDM`, see https://smwoodman.github.io/eSDM
 
 ## Data files
 
