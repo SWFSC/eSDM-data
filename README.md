@@ -1,3 +1,4 @@
+[![manuscript](https://img.shields.io/badge/Manuscript-eSDM-green)](https://doi.org/10.1111/2041-210X.13283)
 [![DOI](https://zenodo.org/badge/139048048.svg)](https://zenodo.org/badge/latestdoi/139048048)
 
 # eSDM-data
