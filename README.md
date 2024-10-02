@@ -3,7 +3,7 @@
 
 # eSDM-data
 
-Home for data that can be downloaded from the eSDM GUI, including the data used in the 'Example analysis' section of [Woodman et al. (2019)](https://doi.org/10.1111/2041-210X.13283). You can download this data by clicking the 'Download ... data' buttons in the 'Roadmap' section of the GUI. The data used in the example analysis is also located in [eSDM_data_manuscript.zip](https://github.com/smwoodman/eSDM-data/blob/master/eSDM_data_manuscript.zip).
+Home for data that can be downloaded from the eSDM GUI, including the data used in the 'Example analysis' section of [Woodman et al. (2019)](https://doi.org/10.1111/2041-210X.13283). You can download this data by clicking the 'Download ... data' buttons in the 'Roadmap' section of the GUI. The data used in the example analysis is also located in [eSDM_data_manuscript.zip](https://github.com/SWFSC/eSDM-data/blob/master/eSDM_data_manuscript.zip).
 
 For more information about `eSDM`, see https://swfsc.github.io/eSDM
 
@@ -11,8 +11,8 @@ For more information about `eSDM`, see https://swfsc.github.io/eSDM
 
 See the README.txt files within each zip file for more details about the data.
 
-* [eSDM_data_manuscript.zip](https://github.com/smwoodman/eSDM-data/blob/master/eSDM_data_manuscript.zip): Data used in the example analysis described in Woodman et al. (2019)
-* [eSDM_data_sample.zip](https://github.com/smwoodman/eSDM-data/blob/master/eSDM_data_sample.zip): Sample data for use with the eSDM GUI
+* [eSDM_data_manuscript.zip](https://github.com/SWFSC/eSDM-data/blob/master/eSDM_data_manuscript.zip): Data used in the example analysis described in Woodman et al. (2019)
+* [eSDM_data_sample.zip](https://github.com/SWFSC/eSDM-data/blob/master/eSDM_data_sample.zip): Sample data for use with the eSDM GUI
 
 ## Reference
 
